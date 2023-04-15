@@ -1,0 +1,31 @@
+
+
+ hr {
+        border-style: dotted none none;
+        height: opx;
+        width: 5%;
+        border-color: brown;
+        border-width: 9px;
+     }
+
+body{
+    background-color: rgb(35, 193, 169);
+   
+    
+}    
+
+h3 {
+    color: #7c4034;
+}
+
+h1  {
+    color: rgb(160, 60, 218);
+    font-family: "rubik", sans-serif;
+    font-size: clamp(2em, 2vm, 24em);
+    font-weight: 400;
+    padding: 20px;
+    text-align: center;
+ 
+   
+}
+
